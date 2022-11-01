@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,QAAQ,AAAC,CACL,UAAU,CAAE,MAAM,CACrB",
+    "sources": [
+        "../blocks/catalog.scss"
+    ],
+    "names": [],
+    "file": "catalog.min.css"
+}

@@ -1,0 +1,46 @@
+.benefits {
+  min-height: 470px;
+  background-color: #f6f6f6;
+  padding: 69px 0 78px 0;
+  &__header {
+    font-size: 30px;
+    font-weight: 700;
+    color: #0d0d0d;
+    text-align: center;
+  }
+  &__items {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 65px;
+  }
+  &__item {
+    max-width: 252px;
+    text-align: center;
+    img {
+      display: block;
+      margin: 0 auto;
+      margin-bottom: 38px;
+    }
+    span {
+      font-size: 18px;
+      font-weight: 700;
+      color: #0d0d0d;
+    }
+    a {
+      color: #ff0000;
+    }
+    .animated {
+      animation: heartbeat 2s infinite;
+      &:hover {
+        animation-play-state: paused;
+      }
+    }
+  }
+  &__text {
+    text-align: center;
+    font-size: 14px;
+    line-height: 1.2;
+    font-weight: 300;
+    color: #0d0d0d;
+  }
+}

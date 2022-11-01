@@ -1,0 +1,239 @@
+@media (max-width: 768px) {
+  .header {
+    &__official {
+      font-size: 10px;
+      span {
+        font-size: 16px;
+      }
+    }
+  }
+  .promo {
+    &__wrapper {
+      align-items: center;
+    }
+    &__header {
+      font-size: 39px;
+    }
+    &__supheader {
+      font-size: 21px;
+    }
+  }
+  .benefits {
+    &__header {
+      font-size: 25px;
+    }
+    &__item {
+      max-width: 241px;
+    }
+  }
+  .consultation {
+    &__header {
+      font-size: 30px;
+      text-align: center;
+    }
+    &__desc {
+      font-size: 18px;
+      text-align: center;
+    }
+  }
+  .feed-form {
+    margin: 0 auto;
+    margin-top: 36px;
+  }
+  .carousel__inner {
+    width: 100%;
+  }
+  .slick-slide img {
+    width: 100%;
+  }
+}
+@media (max-width: 500px) {
+  .promo {
+    &__header {
+      font-size: 32px;
+    }
+    &__supheader {
+      font-size: 19px;
+    }
+  }
+  .consultation {
+    &__header {
+      font-size: 26px;
+      text-align: center;
+    }
+    &__desc {
+      font-size: 16px;
+      text-align: center;
+    }
+  }
+  .feed-form {
+    margin: 0 auto;
+    margin-top: 36px;
+  }
+}
+@media (max-width: 576px) {
+  .header {
+    &__official {
+      display: none;
+    }
+  }
+  .benefits {
+    &__items {
+      flex-direction: column;
+      align-items: center;
+    }
+    &__item {
+      max-width: 300px;
+      margin-top: 40px;
+    }
+  }
+  .carousel .slick-dots li button {
+    width: 41px;
+    height: 13px;
+  }
+  .catalog {
+    &__title {
+      font-size: 28px;
+    }
+    &__tab {
+      font-size: 16px;
+    }
+  }
+  .reviews {
+    &__title {
+      font-size: 25px;
+    }
+    &__item {
+      flex-direction: column;
+      align-items: center;
+    }
+    &__img {
+      margin: 0 0 50px 0;
+    }
+    &__descr {
+      text-align: center;
+    }
+    &__text {
+      font-size: 14px;
+    }
+  }
+  .footer {
+    &__info {
+      width: 100%;
+      padding: 50px 30px 60px 30px;
+    }
+  }
+  .modal {
+    padding: 38px 20px 40px 20px;
+
+    &__subtitle {
+      font-size: 16px;
+    }
+    &__discr {
+      margin-top: 20px;
+      font-size: 13px;
+    }
+  }
+}
+
+@media (max-width: 428px) {
+  .header {
+    &__logo {
+      width: 200px;
+    }
+    &__phone {
+      display: none;
+    }
+  }
+
+  .promo {
+    &__header {
+      font-size: 30px;
+    }
+    &__supheader {
+      font-size: 16px;
+    }
+    &__icons {
+      width: 400px;
+    }
+    &__link {
+      font-size: 15px;
+    }
+  }
+  .button_main {
+    width: 250px;
+    height: 45px;
+    font-size: 15px;
+  }
+  .modal {
+    padding: 38px 15px 40px 15px;
+
+    &__subtitle {
+      font-size: 16px;
+    }
+    &__discr {
+      font-size: 13px;
+    }
+  }
+}
+
+@media (max-width: 426px) {
+  .header {
+    &__logo {
+      width: 150px;
+    }
+    &__phone {
+      display: none;
+    }
+  }
+  .button {
+    width: 135px;
+    font-size: 11px;
+  }
+  .promo {
+    &__header {
+      font-size: 24px;
+    }
+    &__supheader {
+      font-size: 14px;
+    }
+    &__icons {
+      width: 310px;
+    }
+    &__icon {
+      font-size: 12px;
+    }
+    &__link {
+      font-size: 14px;
+    }
+  }
+  .button_main {
+    width: 250px;
+    height: 45px;
+    font-size: 15px;
+  }
+  .button_submit {
+    width: 100%;
+    height: 55px;
+    font-size: 14px;
+    color: #ffffff;
+  }
+  .consultation {
+    &__header {
+      font-size: 20px;
+      text-align: center;
+    }
+    &__desc {
+      font-size: 12px;
+      text-align: center;
+    }
+  }
+  .carousel .slick-dots li button {
+    width: 39px;
+    height: 13px;
+  }
+  .pageup {
+    bottom: 20px;
+    right: 10px;
+  }
+}
