@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PetProjects/employers/build/static/css/main.a1c75a79.chunk.css",
+    "main.js": "/PetProjects/employers/build/static/js/main.01a662ab.chunk.js",
+    "main.js.map": "/PetProjects/employers/build/static/js/main.01a662ab.chunk.js.map",
+    "runtime-main.js": "/PetProjects/employers/build/static/js/runtime-main.33c7e1f1.js",
+    "runtime-main.js.map": "/PetProjects/employers/build/static/js/runtime-main.33c7e1f1.js.map",
+    "static/js/2.0ac97685.chunk.js": "/PetProjects/employers/build/static/js/2.0ac97685.chunk.js",
+    "static/js/2.0ac97685.chunk.js.map": "/PetProjects/employers/build/static/js/2.0ac97685.chunk.js.map",
+    "index.html": "/PetProjects/employers/build/index.html",
+    "static/css/main.a1c75a79.chunk.css.map": "/PetProjects/employers/build/static/css/main.a1c75a79.chunk.css.map",
+    "static/js/2.0ac97685.chunk.js.LICENSE.txt": "/PetProjects/employers/build/static/js/2.0ac97685.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33c7e1f1.js",
+    "static/js/2.0ac97685.chunk.js",
+    "static/css/main.a1c75a79.chunk.css",
+    "static/js/main.01a662ab.chunk.js"
+  ]
+}
