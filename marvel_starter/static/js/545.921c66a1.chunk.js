@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmarvel_starter=self.webpackChunkmarvel_starter||[]).push([[545],{545:function(r,e,t){t.r(e);var s=t(219),a=t(504),l=t(184);e.default=function(){return(0,l.jsxs)("div",{children:[(0,l.jsx)(s.Z,{}),(0,l.jsx)(a.rU,{style:{color:"red",borderBottom:"1px solid"},to:"/",children:"Back to mail page"})]})}}}]);
+//# sourceMappingURL=545.921c66a1.chunk.js.map
